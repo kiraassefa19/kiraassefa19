@@ -1,16 +1,58 @@
-## Hi there 👋
+Kirubel Shimeles Assefa
+Backend Engineer | Fintech | Java/Spring Boot | Python/FastAPI
 
-<!--
-**kiraassefa19/kiraassefa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────────────────────
 
-Here are some ideas to get you started:
+About
+4+ years building software and fintech systems...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────
+
+Core Engineering
+
+Backend
+Java • Spring Boot • Python • FastAPI
+
+Architecture
+Microservices • REST • Event-driven systems
+
+Data
+PostgreSQL • MongoDB • Redis
+
+Security
+OAuth2 • JWT • Keycloak • RBAC
+
+Infrastructure
+Docker • CI/CD
+
+Observability
+ELK • OpenTelemetry
+
+────────────────────────────────────────────
+
+Featured Projects
+
+⭐ Fintech Wallet Platform
+⭐ KYC Service
+⭐ Payment Processing Service
+⭐ Fintech Operations Platform
+⭐ Fintech Platform Architecture
+
+────────────────────────────────────────────
+
+Professional Experience
+
+Kifiya Financial Technology PLC
+
+────────────────────────────────────────────
+
+Currently Learning
+
+Python/FastAPI
+Event-driven architecture
+Distributed systems
+Advanced fintech architecture
+
+────────────────────────────────────────────
+
+LinkedIn | Portfolio | Email
