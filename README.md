@@ -39,8 +39,8 @@ Hands-on Software Engineer with 4+ years building scalable backend architectures
 
 ### Professional Experience
 
-**Software Engineer** - Kifiya Financial Technology PLC · *Aug 2023 - Present*
-Engineer responsive admin dashboards and analytical web apps in React.js/Next.js; design Spring Boot + PostgreSQL aggregation services that turn multi-million row logs into KPIs; led ELK Stack observability for API traffic and transaction monitoring; secured admin access with OAuth2/JWT-based RBAC.
+**Software Engineer** - Kifiya Financial Technology PLC · *Aug 2023 – Present*
+Build and maintain fintech applications and backend services using **Spring Boot and PostgreSQL**, including aggregation and query services processing multi-million-row operational datasets into actionable KPIs. Develop secure administrative and operational platforms with **OAuth2, JWT, and role-based access control (RBAC)**. Lead **ELK Stack (Elasticsearch, Logstash, Kibana)** observability for API traffic and transaction monitoring, while collaborating across engineering teams to deliver scalable, reliable business solutions.
 
 **Intern Software Engineer** - Kifiya Financial Technology PLC · *Jun 2022 – Aug 2022*
 Built the web (React) and mobile (React Native) interface for a banking emulator system, wired to live Spring Boot REST endpoints and a MySQL data layer.
