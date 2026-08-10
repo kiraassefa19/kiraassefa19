@@ -57,4 +57,4 @@ Built the web (React) and mobile (React Native) interface for a banking emulator
 
 ### Let's Connect
 
-[LinkedIn](https://linkedin.com/in/kirubel-assefa) · [Portfolio](https://kiraassefa19.github.io/portfolio-/) · [Email](mailto:Kirubelassefa29@gmail.com)
+[LinkedIn](https://linkedin.com/in/kirubel-assefa) · [Portfolio](https://kiraassefa19.github.io/kirubel-assefa/) · [Email](mailto:Kirubelassefa29@gmail.com)
