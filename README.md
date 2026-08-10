@@ -1,8 +1,8 @@
 # Kirubel Shimeles Assefa
 
-**Software Engineer** — Dashboards · Observability · Full-Stack (React/Next.js · Spring Boot)
+**Software Engineer** - Full-Stack (React/Next.js · Spring Boot)
 
-Hands-on Software Engineer with 4+ years building scalable backend architectures and dynamic, user-focused web frontends at **Kifiya Financial Technology**. I specialize in bridging the gap between raw, distributed data and clear visual insight — crafting responsive dashboards, interactive operational tools, and real-time observability platforms.
+Hands-on Software Engineer with 4+ years building scalable backend architectures and dynamic, user-focused web frontends at **Kifiya Financial Technology**. I specialize in bridging the gap between raw, distributed data and clear visual insight - crafting responsive dashboards, interactive operational tools, and real-time observability platforms.
 
 ---
 
@@ -39,19 +39,19 @@ Hands-on Software Engineer with 4+ years building scalable backend architectures
 
 ### Professional Experience
 
-**Software Engineer** — Kifiya Financial Technology PLC · *Aug 2023 – Present*
+**Software Engineer** - Kifiya Financial Technology PLC · *Aug 2023 - Present*
 Engineer responsive admin dashboards and analytical web apps in React.js/Next.js; design Spring Boot + PostgreSQL aggregation services that turn multi-million row logs into KPIs; led ELK Stack observability for API traffic and transaction monitoring; secured admin access with OAuth2/JWT-based RBAC.
 
-**Intern Software Engineer** — Kifiya Financial Technology PLC · *Jun 2022 – Aug 2022*
+**Intern Software Engineer** - Kifiya Financial Technology PLC · *Jun 2022 – Aug 2022*
 Built the web (React) and mobile (React Native) interface for a banking emulator system, wired to live Spring Boot REST endpoints and a MySQL data layer.
 
 ---
 
 ### Education & Certificates
 
-- **BSc, Information Technology** — Hope Enterprise University College, 2023
-- **Programming with JavaScript** — Meta (Coursera), 2023
-- **Spring MVC, Spring Boot and REST Controllers** — Udemy, 2023
+- **BSc, Information Technology** - Hope Enterprise University College, 2023
+- **Programming with JavaScript** - Meta (Coursera), 2023
+- **Spring MVC, Spring Boot and REST Controllers** - Udemy, 2023
 
 ---
 
